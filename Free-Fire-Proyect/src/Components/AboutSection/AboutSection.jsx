@@ -4,10 +4,10 @@ import './AboutSection.css'
 function AboutSection() {
     return (
         <section id="about">
-        <h1 class="tag">About</h1>
-        <div class="main">
+        <h1 className="tag">About</h1>
+        <div className="main">
             <img src={image_group} alt="Image Group" />
-            <div class="about_text">
+            <div className="about_text">
                 <h1>
                     FFWS 2022 SENTOSA
                 </h1>

@@ -6,7 +6,7 @@ function Header() {
     return (
         <div id="contaner">
             <nav>
-                <div class="logo">
+                <div className="logo">
                     <img src={logo_free_fire} alt="" />
                 </div>
                 <ul>
@@ -16,13 +16,13 @@ function Header() {
                     <li><a href="#">Esports</a></li>
                     <li><a href="#">Service</a></li>
                 </ul>
-                <div class="btn">
+                <div className="btn">
                     <a href="#">Download</a>
                 </div>
             </nav>
 
-            <div class="tag_line">
-                <div class="gareena_logo">
+            <div className="tag_line">
+                <div className="gareena_logo">
                     <img src={image_garena} alt="" />
                         <p>Garena</p>
                 </div>

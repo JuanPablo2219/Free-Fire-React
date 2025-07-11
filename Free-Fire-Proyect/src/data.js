@@ -11,7 +11,7 @@ import image_10 from "./img/Homer.png";
 import image_11 from "./img/Dasha.png";
 import image_12 from "./img/Clu.png";
 
-export const CHARACTER = [
+export const CHARACTERS = [
   {
     id: 0,
     image: image_1,
