@@ -13,13 +13,27 @@
 }
 
 #contaner nav{
-    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)); /* Fondo más opaco */
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-left: 7%;
     padding-right: 8%;
     box-shadow: 2px 2px 30px rgba(0,0,0,0.7);
+    z-index: 1;
+    transition: transform 0.3s ease-in-out;
+}
+
+.show {
+    transform: translateY(0);
+}
+
+.hide {
+    transform: translateY(-100%);
 }
 
 #contaner nav .logo img{
