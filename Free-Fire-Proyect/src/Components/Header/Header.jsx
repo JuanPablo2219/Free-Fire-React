@@ -10,24 +10,24 @@ function Header() {
                     <img src={logo_free_fire} alt="" />
                 </div>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Character</a></li>
-                    <li><a href="#">Esports</a></li>
-                    <li><a href="#">Service</a></li>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Acerca de</a></li>
+                    <li><a href="#">Personajes</a></li>
+                    <li><a href="#">Juegos</a></li>
+                    <li><a href="#">Servicio</a></li>
                 </ul>
                 <div className="btn">
-                    <a href="#">Download</a>
+                    <a href="#">Descargar</a>
                 </div>
             </nav>
 
             <div className="tag_line">
                 <div className="gareena_logo">
                     <img src={image_garena} alt="" />
-                        <p>Garena</p>
+                    <p>Garena</p>
                 </div>
-                <h2>The Best Game</h2>
-                <h1>Free Fire</h1>
+                <h2>Free Fire</h2>
+                <h1>El mejor juego</h1>
             </div>
         </div>
     )

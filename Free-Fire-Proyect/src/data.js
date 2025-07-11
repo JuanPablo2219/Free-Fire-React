@@ -16,64 +16,64 @@ export const CHARACTERS = [
     id: 0,
     image: image_1,
     title: "Alok",
-    description:
-      "Using the power of music, Alok left Brazil and travelled the world. His name means “light”. He has signed a contract and a closed concert will happen on Free Fire’s battleground island for some VIP guests!",
+    description: 
+    "Usando el poder de la música, Alok dejó Brasil y viajó por el mundo. Su nombre significa luz. Firmó un contrato y ofrecerá un concierto privado en la isla Battleground de Free Fire para algunos invitados VIP!",
   },
   {
     id: 1,
     image: image_2,
     title: "Chrono",
     description:
-      "He had a normal childhood in his original universe. His parents were famous lawyers who fought against poverty and helped bring the poor homeless people up into society.",
+      "Tuvo una infancia normal en su universo original. Sus padres eran abogados famosos que luchaban contra la pobreza y ayudaban a integrar a la sociedad a las personas sin hogar.",
   },
   {
     id: 2,
     image: image_3,
     title: "Skyler",
     description:
-      "Driven to be the best musical talent in the business and to also find the best talent. He doesn't like to lose and believes that creativity allows people to see the good in the world instead of the bad.",
+      "Impulsado por ser el mejor talento musical de la industria y también por encontrar el mejor talento. No le gusta perder y cree que la creatividad permite ver lo bueno del mundo en lugar de lo malo.",
   },
   {
     id: 3,
     image: image_4,
     title: "Caroline",
     description:
-      "She has enough fans to fill up an entire stadium. She is no doubt the most popular girl at school. Her father and her friends are the two most valuable things in her life.",
+      "Tiene suficientes fans como para llenar un estadio entero. Sin duda, es la chica más popular del colegio. Su padre y sus amigos son lo más valioso de su vida.",
   },
   {
     id: 4,
     image: image_5,
     title: "Hayato",
     description:
-      "Hayato, a kid from a legendary Samurai family. Being the only child means that Hayato needs to carry on the family tradition and curse. This young Samurai has a secret nobody else can know... For this, Hayato is willing to give up his life.",
+      "Hayato, hijo de una legendaria familia samurái. Ser hijo único significa que Hayato debe continuar con la tradición y la maldición familiar. Este joven samurái guarda un secreto que nadie más puede conocer... Por él, Hayato está dispuesto a dar su vida.",
   },
   {
     id: 5,
     image: image_6,
     title: "Dimitri",
     description:
-      "Dimitri is the elder brother of Thiva. In his daily life, he would spend most of his day at the lab developing new sound technology.",
+      "Dimitri es el hermano mayor de Thiva. En su día a día, pasaba la mayor parte del día en el laboratorio desarrollando nueva tecnología de sonido.",
   },
   {
     id: 6,
     image: image_7,
     title: "Steffie",
     description:
-      "Steffie is a liberal artist. Since childhood, she has already shown the surprising gift for art. After the war, Steffie saw the rise of Future Horizons in her country and how they hunted down artists in the name of a better future.",
+      "Steffie es una artista liberal. Desde pequeña, demostró un sorprendente don para el arte. Después de la guerra, Steffie presenció el auge de Future Horizons en su país y cómo perseguían a los artistas en nombre de un futuro mejor..",
   },
   {
     id: 7,
     image: image_8,
     title: "Xayne",
     description:
-      "Xayne was always interested in more extreme activities even when she was a kid. She prefers the adrenaline rush of xtreme sports instead of human interaction. Free-spirit, she wants to explore life and find its limits.",
+      "Xayne siempre estuvo interesada en actividades más extremas, incluso de niña. Prefiere la adrenalina de los deportes extremos a la interacción humana. De espíritu libre, quiere explorar la vida y encontrar sus límites..",
   },
   {
     id: 8,
     image: image_9,
     title: "Kenta",
     description:
-      "Kenta served as a bodyguard and bladesmith for Hayato Yagami's family for years. He is a man of few words but protects his new, young master in whatever situation they find themselves in.",
+      "Kenta sirvió como guardaespaldas y herrero de la familia de Hayato Yagami durante años. Es un hombre de pocas palabras, pero protege a su nuevo y joven amo en cualquier situación en la que se encuentren.",
   },
   {
     id: 9,
@@ -87,14 +87,14 @@ export const CHARACTERS = [
     image: image_11,
     title: "Dasha",
     description:
-      "Dasha was a very happy and productive child but then a series of unfortunate events came into her life. Her parents died, her best friend moved away, her foster family was terrible to her and her country was on the brink of war.",
+      "Dasha era una niña muy feliz y productiva, pero una serie de acontecimientos desafortunados llegaron a su vida. Sus padres murieron, su mejor amiga se mudó, su familia de acogida la trató fatal y su país estuvo al borde de la guerra.",
   },
   {
     id: 11,
     image: image_12,
     title: "Clu",
     description:
-      "Clu grew up in a suburb of a large city. Her parents were wealthy, never had to worry about the basics of life and she had a very loving childhood. When she was a teenager, her dad was recruited for the war effort.",
+      "Clu creció en un suburbio de una gran ciudad. Sus padres eran adinerados, nunca tuvieron que preocuparse por las necesidades básicas de la vida y tuvo una infancia llena de amor. De adolescente, su padre fue reclutado para la guerra.",
   },
 ];
 

@@ -4,7 +4,7 @@ import './AboutSection.css'
 function AboutSection() {
     return (
         <section id="about">
-        <h1 className="tag">About</h1>
+        <h1 className="tag">Acerca de</h1>
         <div className="main">
             <img src={image_group} alt="Image Group" />
             <div className="about_text">
@@ -12,10 +12,11 @@ function AboutSection() {
                     FFWS 2025 SENTOSA
                 </h1>
                 <p>
-                    Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places
-                    you on a remote island where you are pit aganinst 49 other players, all seeking survival
+                    Free Fire es el juego de disparos de supervivencia definitivo disponible para móviles.
+                    Cada partida de 10 minutos te sitúa en una isla remota donde te enfrentas a otros 49 jugadores,
+                     todos en busca de supervivencia.
                 </p>
-                <button>GO TO</button>
+                <button>Mas Información</button>
             </div>
         </div>
     </section>

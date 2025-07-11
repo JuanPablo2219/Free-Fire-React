@@ -5,7 +5,7 @@ function CharacterSection() {
     return (
         <section id='character'>
             <div className="title">
-                <h1>Character</h1>
+                <h1>Personajes</h1>
             </div>
 
             <div className='box'>

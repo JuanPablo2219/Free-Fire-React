@@ -1,5 +1,6 @@
 import AboutSection from "./Components/AboutSection/AboutSection"
 import CharacterSection from "./Components/CharacterSection/CharacterSection"
+import EsportsSection from "./Components/EsportsSection/EsportsSection"
 import Header from "./Components/Header/Header"
 import NewNotice from "./Components/NewNotice/NewNotice"
 
@@ -11,6 +12,7 @@ function App() {
       <AboutSection/>
       <CharacterSection/>
       <NewNotice/>
+      <EsportsSection/>
     </>
   )
 }
