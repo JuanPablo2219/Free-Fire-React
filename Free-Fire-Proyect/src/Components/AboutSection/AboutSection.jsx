@@ -9,7 +9,7 @@ function AboutSection() {
             <img src={image_group} alt="Image Group" />
             <div className="about_text">
                 <h1>
-                    FFWS 2022 SENTOSA
+                    FFWS 2025 SENTOSA
                 </h1>
                 <p>
                     Free Fire is the ultimate survival shooter game available on mobile. Each 10-minute game places

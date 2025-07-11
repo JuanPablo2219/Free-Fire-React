@@ -1,9 +1,8 @@
 #contaner{
     width: 100%;
     height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(../../img/bg.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(../../img/65fef1213324415a00e170bef3a51e2b.jpg);
     background-size: cover;
-    background-position: center;
 }
 
 #logo {
@@ -83,12 +82,12 @@
     color: #e7e7e7;
     font-weight: bold;
     margin-top: 50px;
-    font-size: 25px;
+    font-size: 40px;
 }
 
 #contaner.tag_line h2{
     color: #e6e3e3;
-    font-size: 65px;
+    font-size: 70px;
     text-shadow: 0 0 20px black;
     margin: 10px 0;
 }
@@ -96,5 +95,5 @@
 #contaner .tag_line h1{
     color: #ffcc00;
     text-shadow: 3px 0 20px black;
-    font-size: 75px;
+    font-size: 80px;
 }
