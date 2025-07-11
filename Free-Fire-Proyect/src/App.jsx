@@ -1,3 +1,4 @@
+import AboutSection from "./Components/AboutSection/AboutSection"
 import Header from "./Components/Header/Header"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <Header/>
+      <AboutSection/>
     </>
   )
 }
